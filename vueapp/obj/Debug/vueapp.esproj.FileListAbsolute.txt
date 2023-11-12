@@ -1,0 +1,1 @@
+C:\Users\addicted\source\repos\NetCoreVueJs\vueapp\obj\Debug\vueapp.esproj.CoreCompileInputs.cache

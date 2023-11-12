@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "vueapp", "vueapp\vueapp.esproj", "{FB63485E-03F7-4D98-9941-272D83478121}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "webapi", "webapi\webapi.csproj", "{1AA8DF5D-C43D-418C-8828-FD62DD070E42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB63485E-03F7-4D98-9941-272D83478121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB63485E-03F7-4D98-9941-272D83478121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB63485E-03F7-4D98-9941-272D83478121}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FB63485E-03F7-4D98-9941-272D83478121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB63485E-03F7-4D98-9941-272D83478121}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB63485E-03F7-4D98-9941-272D83478121}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{1AA8DF5D-C43D-418C-8828-FD62DD070E42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AA8DF5D-C43D-418C-8828-FD62DD070E42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AA8DF5D-C43D-418C-8828-FD62DD070E42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AA8DF5D-C43D-418C-8828-FD62DD070E42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D67C770A-6614-47BE-B7B0-86B2DCC4751F}
+	EndGlobalSection
+EndGlobal
